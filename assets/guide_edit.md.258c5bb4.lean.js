@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as l}from"./chunks/framework.4164f84f.js";const C=JSON.parse('{"title":"参与编辑","description":"","frontmatter":{},"headers":[],"relativePath":"guide/edit.md","lastUpdated":1680141712000}'),e={name:"guide/edit.md"},t=l("",3),p=[t];function o(c,i,r,d,_,y){return a(),n("div",null,p)}const u=s(e,[["render",o]]);export{C as __pageData,u as default};

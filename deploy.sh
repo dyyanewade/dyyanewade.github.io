@@ -13,7 +13,7 @@ git init
 git add -A
 git commit -m 'add'
 
-git push -f git@github.com:dyyanewade/dyyanewade.github.io master
+git push -f https://github.com/dyyanewade/dyyanewade.github.io.git main
 
 cd -
 

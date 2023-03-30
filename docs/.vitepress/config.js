@@ -3,7 +3,7 @@ import menu from "./menu";
 module.exports = {
   lang: "zh-CN",
   title: "Vue-H5-Template",
-  base: "./vue-h5-template",
+  base: "./",
   description: "一个清新优雅的H5模版",
   lastUpdated: true,
   head: [

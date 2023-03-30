@@ -13,7 +13,7 @@ git init
 git add -A
 git commit -m 'add'
 
-git push -f https://github.com/dyyanewade/dyyanewade.github.io.git main
+git push -f https://github.com/dyyanewade/dyyanewade.github.io.git docs
 
 cd -
 
